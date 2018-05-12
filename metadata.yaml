@@ -1,0 +1,39 @@
+_repo: Literary-Byways_36078
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, William
+    birthdate: 1848
+    deathdate: 1908
+    gutenberg_agent_id: '8969'
+    url: http://www.gutenberg.org/2009/agents/8969
+description: ''
+gutenberg_issued: '2011-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36078'
+  lccn: '11014892'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'American literature -- History and criticism'
+- !lcsh 'Authors'
+tableOfContents: 'Authors at work -- The earnings of authors -- Declined with thanks
+  -- Epigrams on authors -- Poetical graces -- Poetry on panes -- English folk-rhymes
+  -- The poetry of toast lists and menu cards -- Toasts and toasting -- Curious American
+  old-time gleanings -- The earliest American poetess: Anne Bradstreet -- A playful
+  poet: Miss Catherine Fanshawe -- A popular song writer: Mrs. John Hunter -- A poet
+  of the poor: Mary Pyper -- The poet of the fisher-folk: Mrs. Susan K. Phillips --
+  A poet and novelist of the people: Thomas Miller -- The cottage countess -- The
+  compiler of "Old Moore''s Almanac": Henry Andrews -- James Nayler, the mad Quaker,
+  who claimed to be the Messiah -- A biographical romance: Swan''s strange story --
+  Short letters.'
+title: Literary Byways
+url: http://www.gutenberg.org/ebooks/36078
